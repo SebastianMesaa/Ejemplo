@@ -1,0 +1,16 @@
+.task-list {
+    max-width: 400px;
+    margin: 20px auto;
+    text-align: left;
+}
+
+.task-list input {
+    padding: 10px;
+    margin-right: 10px;
+    width: calc(100% - 110px);
+    box-sizing: border-box;
+}
+
+.task-list button {
+    padding: 10px;
+}
